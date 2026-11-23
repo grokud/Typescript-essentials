@@ -23,11 +23,7 @@ makePizza(['pepperoni'])
     .then(function(pizza) {
         console.log(pizza);
         return makePizza(['hot peppers', 'onion', 'feta', 'cheese']);
-    })
-    .then(function(pizza) {
-        console.log(pizza);
-        return makePizza();
-    }).then(function([]) {
+    }).then(function() {
         console.log(pizza);
         return makePizza(['one', 'two', 'three', 'four', 'one', 'two', 'three', 'four', 'one', 'two', 'three', 'four']);
     }).then(pizza => {
