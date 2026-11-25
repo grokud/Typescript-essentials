@@ -1,0 +1,24 @@
+{
+  "name": "typescript-essentials",
+  "version": "1.0.0",
+  "description": "Documenting typescript features i am studying",
+  "main": "array_looping_methods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grokud/Typescript-essentials.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/grokud/Typescript-essentials/issues"
+  },
+  "homepage": "https://github.com/grokud/Typescript-essentials#readme",
+  "dependencies": {
+    "typescript": "^7.0.2"
+  }
+}
