@@ -18,7 +18,9 @@
     "url": "https://github.com/grokud/Typescript-essentials/issues"
   },
   "homepage": "https://github.com/grokud/Typescript-essentials#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@types/node": "^26.6.11",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2"
   }
 }
